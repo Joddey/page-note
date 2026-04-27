@@ -1,0 +1,14 @@
+Privacy Policy for Page Note
+
+Last updated: April 27, 2026
+
+Page Note does not collect, store, transmit, or share any personal data.
+
+All notes created by the user are stored locally in the browser using 
+Chrome's built-in storage API (chrome.storage.local). This data never 
+leaves the user's device and is not accessible to the developer or any 
+third party.
+
+The extension does not use analytics, tracking, or any external services.
+
+Contact: ycascs@gmail.com
